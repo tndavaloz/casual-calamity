@@ -1,0 +1,4 @@
+{
+  "unique_string": "abcdefghijklmnopqrstuvwxyz123$~",
+  "duplicates_string": "I am a string with some non-unique characters and spaces and even numbers 123 and omg special characters too %42~!!!%##"
+}
