@@ -10,7 +10,7 @@ This assumes you have Node and Python installed and running on your computer.
 * Within this directory, you will find subdirectories containing:
   * Solution algorithms in Node and Python
   * A JSON data file for test input
-  * A NOTES.md file with any valuable insights, thought processes, and things to consider
+  * A README.md file with any valuable insights, thought processes, and things to consider
 
 ### Running the Algorithms
 * **Node:** Run `node <problem-directory>` in your terminal. This will run the algorithm(s) and log some output to your console.

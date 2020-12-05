@@ -1,4 +1,7 @@
 # Notes:
+## Problem:
+Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
+
 ## General Strategy:
 * Iterate through each character in your string
 * Leverage a hash map or a dictionary to keep track of characters that have been visited previously
