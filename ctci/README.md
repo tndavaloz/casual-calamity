@@ -11,6 +11,7 @@ This assumes you have Node and Python installed and running on your computer.
   * Solution algorithms in Node and Python
   * A JSON data file for test input
   * A README.md file with any valuable insights, thought processes, and things to consider
+* A sample problem set exists under the directory `./ctci/boilerplate`: From the `ctci` directory, run `cp -R boilerplate <directory-location>` to copy
 
 ### Running the Algorithms
 * **Node:** Run `node <problem-directory>` in your terminal. This will run the algorithm(s) and log some output to your console.
