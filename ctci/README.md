@@ -20,4 +20,4 @@ This assumes you have Node and Python installed and running on your computer.
 ### Problem Sets
 #### 1.) Arrays & Strings
 1. **[Is Unique:](./arrays_strings/is_unique)** Implement an algorithm to determine if a string has all unique characters. What if you cannot use additional data structures?
-2. TBD...
+2. **[Check Permutation:](./arrays_strings/check_permutation)** Given two strings, write a method to determine if one is a permutation of the other.

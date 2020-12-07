@@ -1,0 +1,4 @@
+{
+  "is_permutation": ["Car", "Arc"],
+  "not_permutation": ["supercat", "football"]
+}
